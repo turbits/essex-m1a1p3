@@ -1,3 +1,13 @@
+-- +===================================================================+
+-- Author: Trevor Woodman
+-- Github: https://github.com/turbits
+-- Repo: https://github.com/turbits/essex-m1a1p3
+-- Project: Assignment 1, Part 3: SQL Assessment
+-- Course: Launching into Computer Science (LCS_PCOM7E June 2022)
+-- School: University of Essex
+-- Date: August, 2022
+-- +===================================================================+
+
 mysql;
 USE COMPANY1;
 
